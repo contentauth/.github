@@ -1,6 +1,6 @@
 # Content Authenticity Initiative
 
-<img src="logo-cai.svg" width="400" align="right" alt="Content Authenticity Initiative logo" />
+<img src="logo-cai.svg" width="400" alt="Content Authenticity Initiative logo" />
 
 The Content Authenticity Initiative (CAI) is a cross-industry community of major media and technology companies, civil society, and [many others](https://contentauthenticity.org/our-members). Adobe founded CAI in 2019 and continues to lead it. The CAI develops open-source tools for verifiably recording the provenance of digital media, including content made with generative AI. The community's mission is to support broad adoption, making content authenticity and transparency scalable and accessible.
 
