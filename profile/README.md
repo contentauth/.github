@@ -9,7 +9,7 @@ Our open-source efforts include:
 - CAI SDK repositories:
   - Rust Library: [c2pa-rs](https://github.com/contentauth/c2pa-rs)
   - CLI tool: [c2patool](https://github.com/contentauth/c2pa-rs/tree/main/cli)
-  - JavaScript library: [c2pa-web](https://github.com/contentauth/c2pa-web)
+  - JavaScript library: [c2pa-js](https://github.com/contentauth/c2pa-js)
   - Python library: [c2pa-python](https://github.com/contentauth/c2pa-python)
   - Node.js library: [c2pa-node-v2](https://github.com/contentauth/c2pa-node-v2)
   - C++ library: [c2pa-cpp](https://github.com/contentauth/c2pa-cpp)
