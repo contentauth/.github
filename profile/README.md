@@ -11,7 +11,7 @@ Our open-source efforts include:
   - Python library: [c2pa-python](https://github.com/contentauth/c2pa-python)
   - Node.js library: [c2pa-node-v2](https://github.com/contentauth/c2pa-node-v2)
   - C++ library: [c2pa-cpp](https://github.com/contentauth/c2pa-cpp)
-  - Mobile libraries: [c2pa-ios](https://github.com/contentauth/c2pa-ios) and [c2pa-android](https://github.com/contentauth/c2pa-android)
+  - Mobile libraries: [c2pa-swift](https://github.com/contentauth/c2pa-swift) and [c2pa-android](https://github.com/contentauth/c2pa-android)
   - Documentation website: [opensource.contentauth.org](https://github.com/contentauth/opensource.contentauth.org)
 - [Open-source SDK documentation](https://opensource.contentauthenticity.org/docs/)
 - [Discord server](https://discord.gg/CAI)  
